@@ -36,7 +36,7 @@ This was one of the tips that helped shift my perspective on how to think of sho
 
 Then, I found this line and it was the real lightbulb moment for me:
 
-> "_So what is a pro-level story? It's a_ joke_._" ([Chasing the First Sale: Part 2](https://www.blogger.com/u/1/#) by Steven R. Stewart)
+> "_So what is a pro-level story? It's a_ joke." ([Chasing the First Sale: Part 2](https://www.blogger.com/u/1/#) by Steven R. Stewart)
 
 Stewart goes on to explain what he means in the paragraphs that follow, but for me that line alone made realisation dawn. In hindsight, it's one of those things that seems so utterly obvious now that I know it. But this really was just the phrasing I needed for what I had already been noticing in all of the stories that did resonate with me to click together. The setup always came back in some meaningful way at the end. The resolution or the culmination was usually introduced somewhere in the earliest paragraphs--just like with a joke. Yes, I know about Chekhov's gun. That's a fundamental writing tip if there ever was one. But just because something that was introduced earlier shows up again in a meaningful way doesn't mean it's going to be satisfying, or that it becomes the golden thread that holds the story together. The key for a short story is that it's not just got to be Chekhov's gun, it's got to be Chekhov's punchline. You have your setup, and then you have your punchline, and the punchline lives or dies based on how well the setup and the delivery are handled. 
 
@@ -80,11 +80,11 @@ Here are some favourites I have collected in my readings so far:
 
 _The Triumph_ by Robin Hobb (in _[Warriors](https://www.blogger.com/u/1/#)_, edited by George R. R. Martin and Gardner Dozois): A wonderful historical tale of friendship with a fantasy twist.
 
-[_Whatever Knight Comes_ by Ryan Row](https://www.blogger.com/u/1/#) (_Beneath Ceaseless Skie_s Issue #226): Loved the concept and the way it was written. I understand what the author was trying to do with the ending, but it didn't quite land for me. Still enjoyed the whole journey leading up to it, though.
+[_Whatever Knight Comes_ by Ryan Row](https://www.blogger.com/u/1/#) (_Beneath Ceaseless Skies Issue #226): Loved the concept and the way it was written. I understand what the author was trying to do with the ending, but it didn't quite land for me. Still enjoyed the whole journey leading up to it, though.
 
-[_The Wind Shall Blow_ by Gregory Norman Bossert](https://www.blogger.com/u/1/#) (_Beneath Ceaseless Skie_s Issue #209): I just found the atmosphere and tone of this whole story to be so beautiful in a melancholic way. The Scottish border war seeming setting was also fresh and unusual for me.  
+[_The Wind Shall Blow_ by Gregory Norman Bossert](https://www.blogger.com/u/1/#) (_Beneath Ceaseless Skies Issue #209): I just found the atmosphere and tone of this whole story to be so beautiful in a melancholic way. The Scottish border war seeming setting was also fresh and unusual for me.  
 
-But my **_absolute_** favourite short story so far is without a doubt [_Half-Spent Was the Nigh_t by Gretchen Tessmer](https://www.blogger.com/u/1/#) (_Beneath Ceaseless Skies_ Issue #371): I love everything about this story! I love it so much I think I might make a whole entire blogpost about it one day just so I can spend a few hundred words gushing about it. Reading this over a few times also really emphasised the two points I have picked up about short stories in all my reading so far.
+But my **_absolute_** favourite short story so far is without a doubt [_Half-Spent Was the Night by Gretchen Tessmer](https://www.blogger.com/u/1/#) (Beneath Ceaseless Skies_ Issue #371): I love everything about this story! I love it so much I think I might make a whole entire blogpost about it one day just so I can spend a few hundred words gushing about it. Reading this over a few times also really emphasised the two points I have picked up about short stories in all my reading so far.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihRv5wUPD9oZqWFGQ0oHwaca6CmceWq9LSvnZuBC63yVH6Qfn-WP1gu5c3Ed7jHfFA-_iLPDAolurnSS6NY3rrUx-NlefmtnK8-VWMORT3SvzlDY0rQrd9lKPOVzyUhvuo2WjJnV7sZt5XJA4xj78ZZi6A19hcyDpSPdSZSQqKF7KEnPuOJLTEE5C0bi0/w27-h27/Section%20break.png)](https://www.blogger.com/u/1/#)  
 
@@ -119,3 +119,5 @@ I am also quite proud to say that I have gathered up 7 short story rejections of
 By the end of this year I hope for it to be an even higher number, and to have a second short story in circulation to collect even more rejections alongside it. For now I am only two scenes in with that second short story, but am confident that I'm building on some of the lessons learnt from that first story and that it will be a functional piece very soon 🤞
 
 I hope that one day I can write a short story that delights and lingers with someone the way some of them have delighted and lingered with me.
+
+#writing #fantasy #fiction
