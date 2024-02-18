@@ -1,5 +1,5 @@
-$color-primary: hsl(0, 0%, 10%);
-$color-text: hsl(0, 0%, 20%);
+$color-primary: #1ea7a5;
+$color-text: ##6d6d6d;
 $color-subtext: hsl(0, 0%, 30%);
 $color-border: hsl(0, 0%, 85%);
 $color-box-background: mix($color-primary, white, 4%);
@@ -99,9 +99,13 @@ a {
   }
 }
 
-*:focus, *:hover {
-  background: #ff9e87 !important;
+*:focus, {
+  background: #FCFCFC !important;
   color: black !important;
+}
+
+a:hover, a:focus {
+    colour: #ff9e87 !important;
 }
 
 nav {
