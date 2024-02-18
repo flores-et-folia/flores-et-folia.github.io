@@ -38,5 +38,3 @@
 
 ## Audition
 - Audacity
-
-blah blah
