@@ -7,7 +7,7 @@ $border-radius: 4px;
 $font-family: serif, Georgia;
 
 body {
-  background: #FCFCFC;
+  background: #FEFEFE;
   box-sizing: content-box;
   font-family: $font-family;
   margin: 0 auto;
@@ -82,7 +82,7 @@ a {
   border-bottom: 1px solid $color-border;
   color: $color-primary;
   &:hover {
-    color: black !important;
+    colour: #ff9e87 !important;
     background: #fffaf1;
   }
   &:after {
@@ -104,7 +104,7 @@ a {
   color: black !important;
 }
 
-a:hover, a:focus {
+a:focus {
     colour: #ff9e87 !important;
 }
 
