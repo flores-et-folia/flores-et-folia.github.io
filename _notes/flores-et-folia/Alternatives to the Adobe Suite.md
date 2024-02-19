@@ -1,27 +1,30 @@
 Status: 🌿
+#### Key:
+OS - Open Source
+OOP - Once-off purchase
 ## Photoshop (Raster image editing software/photo manipulation software)
 
-- [Affinity Photo](https://affinity.serif.com/en-us/photo/)
+- [Affinity Photo](https://affinity.serif.com/en-us/photo/) - OOP
 - [Fire Alpaca](https://firealpaca.com/)
-- [Krita](https://krita.org/en/)
+- [Krita](https://krita.org/en/) -OS
 - [Medibang Paint](https://medibangpaint.com/)
 - Paint tool SAI
-- Gimp
+- [Gimp](https://www.gimp.org/) - OS
 - Corel draw
 - Procreate
 
-## Illustrator
-- Inkscape
+## Illustrator (Vector image editing software)
+- [Inkscape](https://inkscape.org/) - OS
 - Affinity Designer (once-off purchase)
 
-## After Effects (Motion design, Compositing)
+## After Effects (Motion design, Compositing, Frame-by-frame animation)
 
 ### Motion Design
 - [Cavalry](https://cavalry.scenegroup.co/)
-- Tahoma
+- [Tahoma](https://tahoma2d.org/) - Free
 - [Moho](https://moho.lostmarble.com/)
 ### Compositing
-- 
+- [Natron](https://natrongithub.github.io/) - OS
 
 ### Frame-by-frame animation
 - Opentoonz
@@ -30,10 +33,11 @@ Status: 🌿
 
 ## InDesign (Book typesetting and layout design)
 - [Affinity publisher](https://affinity.serif.com/en-us/publisher/)
+- [Scribus](https://www.scribus.net/) - OS
 
-## Premiere Pro
+## Premiere Pro (Video editing)
 - Da Vinci
 - [OpenShot](https://www.openshot.org/)
 
-## Audition
+## Audition (Audio mixing)
 - Audacity
