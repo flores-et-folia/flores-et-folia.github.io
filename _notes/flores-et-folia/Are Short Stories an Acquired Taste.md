@@ -1,4 +1,5 @@
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRwd6la6s4YotTCuOFe7qWB42uvHyLSthDUnl_4QL4Ee1vnFubtP5vfG1uLgJsH_YRM6hIOE67mLgN4TlrCpdsDMCJVaqJG1riK2zhV4sRcnd-hZ-F9lvp94GbUlnvLXxeQm155JMsm43vj745e92YndHRBPvebrndEKF3QKHy-mViiE58rfIcGWF6rDA/s320/short-stories.png)](https://www.blogger.com/u/1/#)
+ **Status: **🌲
+[[short-stories.png]]]]
 
 When I was younger I turned my nose up at the thought of reading (much less _writing_) short stories for enjoyment. Short stories, I believed, were the province of English teachers and pretentious magazines. Created for no other end than to be clever and to be overanalysed by clever people. 
 
@@ -10,8 +11,7 @@ And yet, I just kept on stumbling upon them in my personal journey of developing
 
 Now, after a year and a bit of intentionally seeking out and consuming speculative fiction short stories, I think I might finally be developing a taste and an understanding for them.  
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihRv5wUPD9oZqWFGQ0oHwaca6CmceWq9LSvnZuBC63yVH6Qfn-WP1gu5c3Ed7jHfFA-_iLPDAolurnSS6NY3rrUx-NlefmtnK8-VWMORT3SvzlDY0rQrd9lKPOVzyUhvuo2WjJnV7sZt5XJA4xj78ZZi6A19hcyDpSPdSZSQqKF7KEnPuOJLTEE5C0bi0/w27-h27/Section%20break.png)](https://www.blogger.com/u/1/#)  
-
+![[Section break.png]]
 ### The Art of the Short Story  
 
 This is where the hesitant plunge into this realm all started. I am sure most aspiring writers have at some point read or heard it said that a short story is, in a lot of ways, a harder thing to write than a novel. And yet—I always thought rather ironically—also been strongly advised to write some short stories of their own because nothing will teach you better and quicker than churning out a load of short stories will. You tell me the thing is hard and then you tell me I should go do the thing even though I'm so green and inexperienced? For years I did not give this advice the credence or the consideration it deserved.  
@@ -28,7 +28,7 @@ One of the first pieces of advice that I remember dwelling on for a few days was
 
 (Disclaimer: I have not yet read a Neil Gaiman short story, though I do count _Stardust_ among my favourite works of fiction). Upon first hearing this attributed to one of the modern masters of fantasy it sounded like solid and applicable advice. But when I gave it a bit more thought, and tried to actually apply it, I found it a little too vague. A last chapter is often the wrap-up for a much longer story. The final pay-off after chapters and chapters of conflict and tension and set-up and revelations. Last chapters can also vary a lot across stories and genres. I do not think, for example, that the last chapter of _Harry Potter and the Deathly Hallows_ would make for a good short story (granted it's been 16 years since I read it). Of course, that's probably not exactly what Gaiman meant. While there's certainly some merit in this concept, and there are definitely a few short stories I have read that I think fit this criteria, I didn't find it particularly helpful in application. I think it is a helpful thing to keep in mind when choosing and refining ideas to explore in a short story, but last chapters are complex beasts that are determined by the nature of the rest of story they are closing off.
 
-Shortly after this, I came across something that gave me a few more specifics to work from. I believe it was Shaelin from [ShaelinWrites](https://www.blogger.com/u/1/#), who said a short story is (very wild and loose paraphrasing):
+Shortly after this, I came across something that gave me a few more specifics to work from. I believe it was Shaelin from [ShaelinWrites](https://www.youtube.com/@ShaelinWrites/featured), who said a short story is (very wild and loose paraphrasing):
 
 > "... _about a specific moment, culminating in a character having a realisation or making a choice_."
 
@@ -36,7 +36,7 @@ This was one of the tips that helped shift my perspective on how to think of sho
 
 Then, I found this line and it was the real lightbulb moment for me:
 
-> "_So what is a pro-level story? It's a_ joke." ([Chasing the First Sale: Part 2](https://www.blogger.com/u/1/#) by Steven R. Stewart)
+> "_So what is a pro-level story? It's a_ joke." ([Chasing the First Sale: Part 2](http://stevenrstewart.blogspot.com/2012/06/chasing-first-sale-part-2-what-pro.html) by Steven R. Stewart)
 
 Stewart goes on to explain what he means in the paragraphs that follow, but for me that line alone made realisation dawn. In hindsight, it's one of those things that seems so utterly obvious now that I know it. But this really was just the phrasing I needed for what I had already been noticing in all of the stories that did resonate with me to click together. The setup always came back in some meaningful way at the end. The resolution or the culmination was usually introduced somewhere in the earliest paragraphs--just like with a joke. Yes, I know about Chekhov's gun. That's a fundamental writing tip if there ever was one. But just because something that was introduced earlier shows up again in a meaningful way doesn't mean it's going to be satisfying, or that it becomes the golden thread that holds the story together. The key for a short story is that it's not just got to be Chekhov's gun, it's got to be Chekhov's punchline. You have your setup, and then you have your punchline, and the punchline lives or dies based on how well the setup and the delivery are handled. 
 
@@ -48,8 +48,7 @@ These are two kernels of knowledge about the art and craft of the short story wh
 
 So, it turns out there's more to short stories than I previously believed. They have their own unique quirks and characteristics that set them apart from the novel in more than just word count and academic value. This appreciation, alas, has only begun to come recently to me. I think this is partly because, as it seems for many people, short stories can really be kind of hit-and-miss, and that is it's own mystery which I am still trying to make sense of.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihRv5wUPD9oZqWFGQ0oHwaca6CmceWq9LSvnZuBC63yVH6Qfn-WP1gu5c3Ed7jHfFA-_iLPDAolurnSS6NY3rrUx-NlefmtnK8-VWMORT3SvzlDY0rQrd9lKPOVzyUhvuo2WjJnV7sZt5XJA4xj78ZZi6A19hcyDpSPdSZSQqKF7KEnPuOJLTEE5C0bi0/w27-h27/Section%20break.png)](https://www.blogger.com/u/1/#)
-
+![[Section break.png]]
 ### The Appreciation  
 
 How, and why, would someone ever want to be a gardener if they don't enjoy gardens? Why are you gardening if not for the joy of the garden? Is it for the accolades? The money? You're unlikely to get either of those as a run-of-the-mill gardener. Unless you happen to be good enough to manage the gardens of Versailles or something. Should it not be the same way with writing? I am a firm believer that you can't—or shouldn't—be a writer if you aren't a reader. But I digress and I won't go into more detail on that here, only to say that since I started reading short stories I find writing them much more approachable and enjoyable.
@@ -68,25 +67,25 @@ On that, there are a lot of short stories that just don't land for me. Even with
 
 #### Some stories from that one-fifth-of-delight  
 
-_[Beneath Ceaseless Skies](https://www.blogger.com/u/1/#)_ and [_Bourbon Penn_](https://www.blogger.com/u/1/#) have quickly become two of my favourites short story magazines just for the creativity and variety they offer, and their tendency to exhibit a more literary style. And they're both free to read online, which is amazing!  
+_[Beneath Ceaseless Skies](https://www.beneath-ceaseless-skies.com/)_ and [_Bourbon Penn_](https://www.bourbonpenn.com/) have quickly become two of my favourites short story magazines just for the creativity and variety they offer, and their tendency to exhibit a more literary style. And they're both free to read online, which is amazing!  
 
 Here are some favourites I have collected in my readings so far:  
 
-[_A Happy Family_ by Nathanial Towers](https://www.blogger.com/u/1/#) (_Bourbon Penn_ Issue #1): Just entertained me way too much.  
+[_A Happy Family_ by Nathanial Towers](https://www.bourbonpenn.com/issue/1/a-happy-family-by-nathaniel-tower) (_Bourbon Penn_ Issue #1): Entertained me way too much.  
 
-[_Redbark and Ambergris_ by Kate Alice Marshal](https://www.blogger.com/u/1/#)l (_Beneath Ceaseless Skies_ Issue #232): Beautiful description and world-building and story.  
+[_Redbark and Ambergris_ by Kate Alice Marshall](https://www.beneath-ceaseless-skies.com/stories/red-bark-and-ambergris/) (_Beneath Ceaseless Skies_ Issue #232): Beautiful description and world-building and story.  
 
-[_How to Raise a Kraken in Your Bathtub_ by P. Djèlí Clark](https://www.blogger.com/u/1/#) (_Uncanny_ Issue #50): Delightful and really well executed.
+[_How to Raise a Kraken in Your Bathtub_ by P. Djèlí Clark](https://www.uncannymagazine.com/article/how-to-raise-a-kraken-in-your-bathtub/) (_Uncanny_ Issue #50): Delightful and really well executed.
 
-_The Triumph_ by Robin Hobb (in _[Warriors](https://www.blogger.com/u/1/#)_, edited by George R. R. Martin and Gardner Dozois): A wonderful historical tale of friendship with a fantasy twist.
+_The Triumph_ by Robin Hobb (in _[Warriors](https://www.isfdb.org/cgi-bin/pl.cgi?304811)_, edited by George R. R. Martin and Gardner Dozois): A wonderful historical tale of friendship with a fantasy twist.
 
-[_Whatever Knight Comes_ by Ryan Row](https://www.blogger.com/u/1/#) (_Beneath Ceaseless Skies Issue #226): Loved the concept and the way it was written. I understand what the author was trying to do with the ending, but it didn't quite land for me. Still enjoyed the whole journey leading up to it, though.
+[_Whatever Knight Comes_ by Ryan Row](https://www.beneath-ceaseless-skies.com/stories/whatever-knight-comes/) (_Beneath Ceaseless Skies Issue_ #226): Loved the concept and the way it was written. I understand what the author was trying to do with the ending, but it didn't quite land for me. Still enjoyed the whole journey leading up to it, though.
 
-[_The Wind Shall Blow_ by Gregory Norman Bossert](https://www.blogger.com/u/1/#) (_Beneath Ceaseless Skies Issue #209): I just found the atmosphere and tone of this whole story to be so beautiful in a melancholic way. The Scottish border war seeming setting was also fresh and unusual for me.  
+[_The Wind Shall Blow_ by Gregory Norman Bossert](https://www.beneath-ceaseless-skies.com/stories/the-wind-shall-blow/) (_Beneath Ceaseless Skies Issue_ #209): I just found the atmosphere and tone of this whole story to be so beautiful in a melancholic way. The Scottish border war seeming setting was also fresh and unusual for me.  
 
-But my **_absolute_** favourite short story so far is without a doubt [_Half-Spent Was the Night by Gretchen Tessmer](https://www.blogger.com/u/1/#) (Beneath Ceaseless Skies_ Issue #371): I love everything about this story! I love it so much I think I might make a whole entire blogpost about it one day just so I can spend a few hundred words gushing about it. Reading this over a few times also really emphasised the two points I have picked up about short stories in all my reading so far.
+But my **_absolute_** favourite short story so far is without a doubt [_Half-Spent Was the Night_ by Gretchen Tessmer](https://www.beneath-ceaseless-skies.com/stories/half-spent-was-the-night/) (_Beneath Ceaseless Skies_ Issue #371): I love everything about this story! I love it so much I think I might make a little analysis about it one day just so I can spend a few hundred words gushing about it. Reading this over a few times also really emphasised the two points I have picked up about short stories in all my reading so far.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihRv5wUPD9oZqWFGQ0oHwaca6CmceWq9LSvnZuBC63yVH6Qfn-WP1gu5c3Ed7jHfFA-_iLPDAolurnSS6NY3rrUx-NlefmtnK8-VWMORT3SvzlDY0rQrd9lKPOVzyUhvuo2WjJnV7sZt5XJA4xj78ZZi6A19hcyDpSPdSZSQqKF7KEnPuOJLTEE5C0bi0/w27-h27/Section%20break.png)](https://www.blogger.com/u/1/#)  
+![[Section break.png]]
 
 I've gathered a nice little stack of favourites from that one fifth, but I'm not planning to stop reading short stories anytime soon. I'm part way through an issue of _Uncanny_ and have still got an untouched issue of [_Clarkesworld_](https://www.blogger.com/u/1/#) and _[Apex Magazine](https://www.blogger.com/u/1/#)_ on my e-reader, and plan to follow those with _[Andromeda Spaceways](https://www.blogger.com/u/1/#)_ and _[The Magazine of Fantasy and Science Fiction](https://www.blogger.com/u/1/#)_ very soon.
 
@@ -112,12 +111,13 @@ Overall, though, I am very glad to have had my eyes opened to the world of specu
 
 I do think that short stories can be a bit of an acquired taste, but, unlike wine, I seem to be developing a palate for them the more I consume them.  
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihRv5wUPD9oZqWFGQ0oHwaca6CmceWq9LSvnZuBC63yVH6Qfn-WP1gu5c3Ed7jHfFA-_iLPDAolurnSS6NY3rrUx-NlefmtnK8-VWMORT3SvzlDY0rQrd9lKPOVzyUhvuo2WjJnV7sZt5XJA4xj78ZZi6A19hcyDpSPdSZSQqKF7KEnPuOJLTEE5C0bi0/w27-h27/Section%20break.png)](https://www.blogger.com/u/1/#)
+![[Section break.png]]
 
 I am also quite proud to say that I have gathered up 7 short story rejections of my own thus far for a 2 400 word piece I wrote in August 2022. 
 
 By the end of this year I hope for it to be an even higher number, and to have a second short story in circulation to collect even more rejections alongside it. For now I am only two scenes in with that second short story, but am confident that I'm building on some of the lessons learnt from that first story and that it will be a functional piece very soon 🤞
 
 I hope that one day I can write a short story that delights and lingers with someone the way some of them have delighted and lingered with me.
+
 
 #writing #fantasy #fiction

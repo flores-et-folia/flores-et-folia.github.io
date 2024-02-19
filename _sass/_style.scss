@@ -19,7 +19,7 @@ body {
   max-width: 63em;
 
   @media (min-width: 820px) {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
   }
 }
 
@@ -70,9 +70,10 @@ h3,
 h4,
 h5,
 h6 {
-  line-height: 1.3;
-  margin-bottom: 0;
-  padding-bottom: 0;
+    line-height: 1.3;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    font-weight: normal;
 }
 
 a {
@@ -83,7 +84,7 @@ a {
   color: $color-primary;
   &:hover {
     colour: #ff9e87 !important;
-    background: #fffaf1;
+    background: #ff9e87;
   }
   &:after {
     position: relative;

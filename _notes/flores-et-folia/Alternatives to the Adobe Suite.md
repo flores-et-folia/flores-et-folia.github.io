@@ -1,11 +1,10 @@
-
-
+Status: 🌿
 ## Photoshop (Raster image editing software/photo manipulation software)
 
-- Affinity Photo
-- Fire Alpaca
-- Krita
-- Medibang Paint
+- [Affinity Photo](https://affinity.serif.com/en-us/photo/)
+- [Fire Alpaca](https://firealpaca.com/)
+- [Krita](https://krita.org/en/)
+- [Medibang Paint](https://medibangpaint.com/)
 - Paint tool SAI
 - Gimp
 - Corel draw
@@ -18,23 +17,23 @@
 ## After Effects (Motion design, Compositing)
 
 ### Motion Design
-- Cavalry
+- [Cavalry](https://cavalry.scenegroup.co/)
 - Tahoma
-- Moha?
+- [Moho](https://moho.lostmarble.com/)
 ### Compositing
-- Moha?
+- 
 
 ### Frame-by-frame animation
 - Opentoonz
 - Krita
-- Moha?
+- [ Moho](https://moho.lostmarble.com/)
 
 ## InDesign (Book typesetting and layout design)
-- Affinity publisher
+- [Affinity publisher](https://affinity.serif.com/en-us/publisher/)
 
 ## Premiere Pro
 - Da Vinci
-- OpenShot
+- [OpenShot](https://www.openshot.org/)
 
 ## Audition
 - Audacity
