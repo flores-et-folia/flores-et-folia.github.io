@@ -1,7 +1,9 @@
+---
+---
+
  **Status:🌲
 
-![[images/short-stories.png]]
-
+![[short-stories.png]]
 When I was younger I turned my nose up at the thought of reading (much less _writing_) short stories for enjoyment. Short stories, I believed, were the province of English teachers and pretentious magazines. Created for no other end than to be clever and to be overanalysed by clever people. 
 
 This conviction was only intensified by the fact that I was—and very much still am—a reader who prefers to become fully immersed in something. I love depth and detail and rich worlds and epic scale and descriptions that are not afraid to be a little flowery. I want to be able to enter into the world I'm reading about for a good chunk of real-world time. And all of these things, I was convinced, could not be satisfactorily delivered upon in the short story format. Especially with regards to fantasy! How can one possibly convey depth and detail and epic scale and build a whole new world _well_ in the span of a few thousand words when some authors even struggle to give such things their due in a few _hundred_ thousand words?
@@ -12,7 +14,7 @@ And yet, I just kept on stumbling upon them in my personal journey of developing
 
 Now, after a year and a bit of intentionally seeking out and consuming speculative fiction short stories, I think I might finally be developing a taste and an understanding for them.  
 
-![[images/Section break 1.png]]
+![[Section break.png]]
 ### The Art of the Short Story  
 
 This is where the hesitant plunge into this realm all started. I am sure most aspiring writers have at some point read or heard it said that a short story is, in a lot of ways, a harder thing to write than a novel. And yet—I always thought rather ironically—also been strongly advised to write some short stories of their own because nothing will teach you better and quicker than churning out a load of short stories will. You tell me the thing is hard and then you tell me I should go do the thing even though I'm so green and inexperienced? For years I did not give this advice the credence or the consideration it deserved.  

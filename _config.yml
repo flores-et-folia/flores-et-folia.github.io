@@ -1,8 +1,8 @@
 title:               Flores et folia
-include:             ['_pages']
+include:             ['_pages', 'assets']
 exclude:             ['_includes/notes_graph.json']
 # You may need to change the base URL depending on your deploy configuration.
-baseurl:             'flores-et-folia.github.io'
+# baseurl:             'flores-et-folia.github.io'
 
 # If you are using a host that cannot resolve URLs that do
 # not end with .html (such as Neocities), set this to 'true'.
