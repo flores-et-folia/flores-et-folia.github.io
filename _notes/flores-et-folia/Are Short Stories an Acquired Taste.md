@@ -1,6 +1,7 @@
  **Status:🌲
 
 ![[images/short-stories.png]]
+
 When I was younger I turned my nose up at the thought of reading (much less _writing_) short stories for enjoyment. Short stories, I believed, were the province of English teachers and pretentious magazines. Created for no other end than to be clever and to be overanalysed by clever people. 
 
 This conviction was only intensified by the fact that I was—and very much still am—a reader who prefers to become fully immersed in something. I love depth and detail and rich worlds and epic scale and descriptions that are not afraid to be a little flowery. I want to be able to enter into the world I'm reading about for a good chunk of real-world time. And all of these things, I was convinced, could not be satisfactorily delivered upon in the short story format. Especially with regards to fantasy! How can one possibly convey depth and detail and epic scale and build a whole new world _well_ in the span of a few thousand words when some authors even struggle to give such things their due in a few _hundred_ thousand words?
@@ -11,7 +12,7 @@ And yet, I just kept on stumbling upon them in my personal journey of developing
 
 Now, after a year and a bit of intentionally seeking out and consuming speculative fiction short stories, I think I might finally be developing a taste and an understanding for them.  
 
-![[images/Section break.png]]
+![[images/Section break 1.png]]
 ### The Art of the Short Story  
 
 This is where the hesitant plunge into this realm all started. I am sure most aspiring writers have at some point read or heard it said that a short story is, in a lot of ways, a harder thing to write than a novel. And yet—I always thought rather ironically—also been strongly advised to write some short stories of their own because nothing will teach you better and quicker than churning out a load of short stories will. You tell me the thing is hard and then you tell me I should go do the thing even though I'm so green and inexperienced? For years I did not give this advice the credence or the consideration it deserved.  
@@ -48,7 +49,7 @@ These are two kernels of knowledge about the art and craft of the short story wh
 
 So, it turns out there's more to short stories than I previously believed. They have their own unique quirks and characteristics that set them apart from the novel in more than just word count and academic value. This appreciation, alas, has only begun to come recently to me. I think this is partly because, as it seems for many people, short stories can really be kind of hit-and-miss, and that is it's own mystery which I am still trying to make sense of.
 
-![[Section break.png]]
+![[images/Section break 1.png]]
 ### The Appreciation  
 
 How, and why, would someone ever want to be a gardener if they don't enjoy gardens? Why are you gardening if not for the joy of the garden? Is it for the accolades? The money? You're unlikely to get either of those as a run-of-the-mill gardener. Unless you happen to be good enough to manage the gardens of Versailles or something. Should it not be the same way with writing? I am a firm believer that you can't—or shouldn't—be a writer if you aren't a reader. But I digress and I won't go into more detail on that here, only to say that since I started reading short stories I find writing them much more approachable and enjoyable.
@@ -85,7 +86,7 @@ _The Triumph_ by Robin Hobb (in _[Warriors](https://www.isfdb.org/cgi-bin/pl.cgi
 
 But my **_absolute_** favourite short story so far is without a doubt [_Half-Spent Was the Night_ by Gretchen Tessmer](https://www.beneath-ceaseless-skies.com/stories/half-spent-was-the-night/) (_Beneath Ceaseless Skies_ Issue #371): I love everything about this story! I love it so much I think I might make a little analysis about it one day just so I can spend a few hundred words gushing about it. Reading this over a few times also really emphasised the two points I have picked up about short stories in all my reading so far.
 
-![[Section break.png]]
+![[images/Section break 1.png]]
 
 I've gathered a nice little stack of favourites from that one fifth, but I'm not planning to stop reading short stories anytime soon. I'm part way through an issue of _Uncanny_ and have still got an untouched issue of [_Clarkesworld_](https://www.blogger.com/u/1/#) and _[Apex Magazine](https://www.blogger.com/u/1/#)_ on my e-reader, and plan to follow those with _[Andromeda Spaceways](https://www.blogger.com/u/1/#)_ and _[The Magazine of Fantasy and Science Fiction](https://www.blogger.com/u/1/#)_ very soon.
 
@@ -111,7 +112,7 @@ Overall, though, I am very glad to have had my eyes opened to the world of specu
 
 I do think that short stories can be a bit of an acquired taste, but, unlike wine, I seem to be developing a palate for them the more I consume them.  
 
-![[Section break.png]]
+![[images/Section break 1.png]]
 
 I am also quite proud to say that I have gathered up 7 short story rejections of my own thus far for a 2 400 word piece I wrote in August 2022. 
 
