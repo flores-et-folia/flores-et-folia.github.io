@@ -1,21 +1,22 @@
 Status: 🌿
 #### Key:
+F - Free
 OS - Open Source
 OOP - Once-off purchase
 ## Photoshop (Raster image editing software/photo manipulation software)
 
 - [Affinity Photo](https://affinity.serif.com/en-us/photo/) - OOP
-- [Fire Alpaca](https://firealpaca.com/)
-- [Krita](https://krita.org/en/) -OS
-- [Medibang Paint](https://medibangpaint.com/)
-- Paint tool SAI
-- [Gimp](https://www.gimp.org/) - OS
-- Corel draw
-- Procreate
+- [Fire Alpaca](https://firealpaca.com/) - F
+- [Krita](https://krita.org/en/) - F, OS
+- [Medibang Paint](https://medibangpaint.com/) - F
+- Paint tool SAI - OOP?
+- [Gimp](https://www.gimp.org/) - F, OS
+- Corel draw -
+- Procreate -
 
 ## Illustrator (Vector image editing software)
-- [Inkscape](https://inkscape.org/) - OS
-- Affinity Designer (once-off purchase)
+- [Inkscape](https://inkscape.org/) - F, OS
+- Affinity Designer (once-off purchase) -
 
 ## After Effects (Motion design, Compositing, Frame-by-frame animation)
 
@@ -32,12 +33,12 @@ OOP - Once-off purchase
 - [ Moho](https://moho.lostmarble.com/)
 
 ## InDesign (Book typesetting and layout design)
-- [Affinity publisher](https://affinity.serif.com/en-us/publisher/)
+- [Affinity publisher](https://affinity.serif.com/en-us/publisher/) - OOP
 - [Scribus](https://www.scribus.net/) - OS
 
 ## Premiere Pro (Video editing)
 - Da Vinci
-- [OpenShot](https://www.openshot.org/)
+- [OpenShot](https://www.openshot.org/) - F, OS
 
 ## Audition (Audio mixing)
-- Audacity
+- Audacity - F, OS
