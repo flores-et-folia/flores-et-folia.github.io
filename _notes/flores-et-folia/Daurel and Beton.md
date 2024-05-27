@@ -3,7 +3,7 @@ date: 2023-12-29
 ---
 ```
 
- **Status:🌲
+ **Status:** 🌲
 ## A Mediaeval narrative hitherto unknown to me
  As a person who has always been fascinated by all things Mediaeval—and who rather regrets never giving Mediaeval History a serious go in tertiary education—I'm always looking for Mediaeval literature to read and add to my collection. One work that has been on my to-read list for several years is a certain chanson de geste called the _Song of Roland_. There were a few reasons for this: it's a foundational piece of Mediaeval literature, a work that allegedly contributed to the shaping of the French language as we know it, and a work that helped solidify the concept of chivalry. Also Roland has been my top choice of name for a theoretical future son for years, and I wanted to know more about the cultural history of the name and what sort of connotations (and/or baggage) the narrative assigns it. This year I finally got around to reading it.
 
@@ -17,15 +17,15 @@ Having read through the whole book now I can't really say anything as to how goo
 Where can I begin to explain this little piece of Occitanian literature and how it fascinates me?  
 Let me just allow it to introduce itself:  
 
-_Would you all like to hear a noble song?  
-Pay attention, please, and listen to the story  
-Of a powerful French duke and of Count Guy,  
-Of the minstrel, Daurel, and the boy, Beton,  
-_(_Daurel and Beton_, Lines 1-4 translated by Gaunt & Pratt, 2016)
+> _Would you all like to hear a noble song?  
+> Pay attention, please, and listen to the story  
+> Of a powerful French duke and of Count Guy,  
+> Of the minstrel, Daurel, and the boy, Beton,  
+> (Daurel and Beton, Lines 1-4 translated by Gaunt & Pratt, 2016)
 
 This opening introduces the four main players in this narrative. The lines that follow go on to show the moment where our French duke, Bovis, makes a pact with Count Guy--arguably the inciting incident of the whole narrative. We are told that Bovis is wealthy and influential while Guy is not, yet the two men are the best of friends. So much so that they decide to make a pact before witnesses, naming themselves as each other's heirs. From the beginning the poem also informs us very bluntly that Guy is evil and scheming and is going to betray Bovis. There is not much subtlety here, but seeing how it all unfolds is still a fascinating journey. 
 
-#### A brief summary  
+### A brief summary  
 
 For the first part of the poem Bovis goes from strength to strength, earning accolades, recognition, more wealth and status, and--seemingly the final straw for Guy--the hand of the emperor Charlemagne's sister in marriage. Along the way Guy and Bovis come upon a minstrel by the name of Daurel, who has a wife and two sons. He impresses them with his skill, accompanies them and seems to become a friend and follower to them both, earning his own assortment of gifts and titles. One such gift is a castle, given to him by Bovis. In theory this gift would increase Daurel's status in the feudal world, turning him from a minstrel into a lord. Life seems good between the three of them, until Guy tries to pressure Emenjart, Bovis' wife and Charlemagne's sister, to sleep with him. When she rejects him he tells her she will regret it. Ermenjart tells Bovis what happened, but Bovis does not believe her, certain that Guy would never do such a thing. 
 
@@ -39,13 +39,13 @@ Beton grows into a talented and handsome child, highly favoured by the emir and 
 Daurel and Beton sail back to their homeland with the men and supplies the emir gives them. They disguise themselves as travelling entertainers and go to Guy. They entertain him with a recounting of how he betrayed Bovis. He realises who they are during this, and strikes Daurel. But Beton strikes Guy at the same moment, protecting Daurel and chopping of Guy's sword-hand. They overpower Guy and capture his knights. Daurel reunites with his sons. The next day they all head off to Bovis' old castle, where Beton takes his rightful place as its Duke. They execute Guy and Beton is reunited with his mother, Ermenjart.  
 Beton, having reclaimed his birthright and avenged his father, still has one more enemey to deal with. He sends three messengers to Charlemagne to inform him that he will not show him deference and wants compensation for Charlemagne's complicit role in Guy's treachery. If Charlemagne refuses, Beton will fight him as long he is capable of doing so. Charlemagne responds rather ominously:
 
- _'My friend,' he says, 'you are a very brave man,  
-Coming here to threaten me in this way.'_  
+>  'My friend,' he says, 'you are a very brave man,  
+> Coming here to threaten me in this way.'
 
 And right after this the manuscript cuts off, leaving one to speculate what happened next. Perhaps Charlemagne reflects for a moment and feels genuine guilt for his past actions and decides to repent? But that sounds too simple, and rather anti-climatic after the challenge and demands Beton has presented. Perhaps an all out war between the emperor and his minstrel-raised vassal is declared? But how would Beton ever have hoped to make good on such a challenge? Perhaps the story ends there because the author had written themselves into a corner. It is a natural progression for the story to follow. Guy, the lesser power, is defeated, but a much more powerful and threatening anatagonist remains. Yet how does a duke who has grown up in a foreign land take down an _emperor_? Considering that there only seems to be one version of this narrative in existence, we will probably never know what the original intended ending was, if it had been worked out at all.  
 
 ![[Section break 1.png]]
-Some thoughts and reflections on the narrative  
+### Some thoughts and reflections on the narrative  
 
 I have seen it said that Daurel and Beton is not as refined or as complex as _The Song of Roland_. I suppose in a lot of ways that is true, though I do not have the academic knowledge or experience to say _precisely_ why. Daurel and Beton certainly felt rough and unpolished in a lot of ways, like an early draft with a lot of potential but a lot of things that still needed figuring out and refining. And yet, there was a richness to it as well. The characters and their conflicts in this narrative felt, to me, much more interesting than those that populated _The Song of Roland_. It is a sort of family drama that touches on many themes: loyalty, jealousy, friendship, materialism, sacrifice, betrayal, vengeance. And these just the themes that are immediately relatable to a contemporary reader. There is also a heavy focus on such Mediaeval concerns as feudal allegiance, noble birth, the importance of gift-giving, and honour. Beton is born to rule, and the narrative does not allow you to doubt it. And yet, it is a minstrel, a person born to a normal life that raises him and steers Beton toward his greatness. 
 
@@ -62,7 +62,7 @@ I also can't help but wonder if Daurel was a sort of self-insert? 
 
 ![[Section break 1.png]]
 
-#### The manuscript  
+### The manuscript  
 
 Unlike _the Song of Roland_, there's only one extant version of this story from a 14th century manuscript now known as _Recueil de poésies provençales (Collection of Provençal poetry)_, that belonged to the Didot family. After a bit of research I was very excited to find an entry for it in the [Les Archives de littérature du Moyen Âge](https://www.blogger.com/u/1/#) (ARLIMA - The Archives of Mediaeval Literature) which led me to scans of the original manuscript available through the Bibliothèque nationale de France.  
 
@@ -78,8 +78,7 @@ _The illustration that appears on folio 94r . This may represent Ermenjart while
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigsSg_ad5phgII_ukfVTp-yJWVulc97HPmEh9Ix50-pTXHRYTYdxKHNzKpAvkJnCpe1MGBo-O5Af0Ir8yTpmivSt7O5goER3WZbcqDLwujhp9KHFjjHHJw6yiHYpj81ZDXx_GpITICPFI8hByh7jiJ0ajBzZqOZ0OfCHN198rjSJ13RsPtpgw3CcZwJJ4/s320/photo_2023-12-29_12-05-20.jpg)](https://www.blogger.com/u/1/#)
 
-_An illustration of a different castle tower with a flag waving on its parapets in the margins of folio 97v.  
-_
+_An illustration of a different castle tower with a flag waving on its parapets in the margins of folio 97v._ 
 
 At present I am fixated on seeking out all of the available research on this narrative. I have made a brief list below of some I have already read. The ARLIMA page provides a comprehensive list of related articles, most of which are in French or German. The seminal work on the piece seems to be the very first transcription of it done by Paul Meyer in 1880, which also has a rather lengthy introduction and analysis of the poem. Ah, that I could read French! I'm going to do my best to figure out Meyer's words with the help of online translators, but it is going to be a slow process, and until then there is much that remains mysterious to me about this poem.  
 
