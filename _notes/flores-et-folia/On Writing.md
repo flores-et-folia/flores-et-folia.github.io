@@ -2,6 +2,7 @@ This post shall serve as a master-post connecting to all my musings on or relati
 
 ## On writing as craft
 - [[Are Short Stories an Acquired Taste]]
+- Does it Bildung? 
 
 #writing 
 
