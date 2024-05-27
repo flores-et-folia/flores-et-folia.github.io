@@ -10,7 +10,7 @@ permalink: /
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   This is the place for my assorted word-heavy musings.</p>
 
-For visual things you can view my portfolio here:<p> <a href="http://foxandmintcreative.com">Fox &amp; Mint</a>
+For visual things you can view my portfolio here: <a href="http://foxandmintcreative.com">Fox &amp; Mint</a>
 
 <strong>Recently updated notes</strong>
 

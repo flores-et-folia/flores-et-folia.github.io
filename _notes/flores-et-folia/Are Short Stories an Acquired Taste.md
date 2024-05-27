@@ -14,7 +14,7 @@ And yet, I just kept on stumbling upon them in my personal journey of developing
 
 Now, after a year and a bit of intentionally seeking out and consuming speculative fiction short stories, I think I might finally be developing a taste and an understanding for them.  
 
-![[Section break.png]]
+![[Section break 1.png]]
 ### The Art of the Short Story  
 
 This is where the hesitant plunge into this realm all started. I am sure most aspiring writers have at some point read or heard it said that a short story is, in a lot of ways, a harder thing to write than a novel. And yet—I always thought rather ironically—also been strongly advised to write some short stories of their own because nothing will teach you better and quicker than churning out a load of short stories will. You tell me the thing is hard and then you tell me I should go do the thing even though I'm so green and inexperienced? For years I did not give this advice the credence or the consideration it deserved.  

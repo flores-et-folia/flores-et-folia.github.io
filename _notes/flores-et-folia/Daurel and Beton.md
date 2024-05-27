@@ -1,3 +1,9 @@
+```yaml
+date: 2023-12-29
+---
+```
+
+ **Status:🌲
 ## A Mediaeval narrative hitherto unknown to me
  As a person who has always been fascinated by all things Mediaeval—and who rather regrets never giving Mediaeval History a serious go in tertiary education—I'm always looking for Mediaeval literature to read and add to my collection. One work that has been on my to-read list for several years is a certain chanson de geste called the _Song of Roland_. There were a few reasons for this: it's a foundational piece of Mediaeval literature, a work that allegedly contributed to the shaping of the French language as we know it, and a work that helped solidify the concept of chivalry. Also Roland has been my top choice of name for a theoretical future son for years, and I wanted to know more about the cultural history of the name and what sort of connotations (and/or baggage) the narrative assigns it. This year I finally got around to reading it.
 
@@ -5,7 +11,7 @@
 
 Having read through the whole book now I can't really say anything as to how good the translations were. My 12th century French is as lacking as my 12th century Occitanian (sp?). The experience of reading was quite clear and easy to understand, but overall _The Song of Roland_ did not evoke much in me. There were a lot of interesting historical details and tid-bits, but I did not connect to the characters or their conflicts. I do intend to read it again one day, though. I imagine it is the sort of thing that is better on a second reading. At the time of purchase I did not think much of the other two poems in the book and had low expectations for them both. I assumed they would be far inferior and did not expect to end up reading them all the way through. _The Song of Roland_ was clearly the main star and they were just tacked on to flesh out the page count or perhaps make that star shine brighter. In the end, though, I have to say I found _The Song of Roland_ to be, in my experience, the weakest read of the three. The third poem, _Charlemagne's Journey to Jerusalem and Constantinople_ was far more amusing and felt reminiscent of something one might find in Bocaccio's _Decameron_. But for me the star ended up being the second entry in the book: a poem of some 2000 lines called _Daurel and Beton_.
 
----
+![[Section break 1.png]]
 ### Daurel and Beton, or, The Romance of Daurel and Beton 
 
 Where can I begin to explain this little piece of Occitanian literature and how it fascinates me?  
@@ -38,9 +44,8 @@ Coming here to threaten me in this way.'_
 
 And right after this the manuscript cuts off, leaving one to speculate what happened next. Perhaps Charlemagne reflects for a moment and feels genuine guilt for his past actions and decides to repent? But that sounds too simple, and rather anti-climatic after the challenge and demands Beton has presented. Perhaps an all out war between the emperor and his minstrel-raised vassal is declared? But how would Beton ever have hoped to make good on such a challenge? Perhaps the story ends there because the author had written themselves into a corner. It is a natural progression for the story to follow. Guy, the lesser power, is defeated, but a much more powerful and threatening anatagonist remains. Yet how does a duke who has grown up in a foreign land take down an _emperor_? Considering that there only seems to be one version of this narrative in existence, we will probably never know what the original intended ending was, if it had been worked out at all.  
 
----
-
- Some thoughts and reflections on the narrative  
+![[Section break 1.png]]
+Some thoughts and reflections on the narrative  
 
 I have seen it said that Daurel and Beton is not as refined or as complex as _The Song of Roland_. I suppose in a lot of ways that is true, though I do not have the academic knowledge or experience to say _precisely_ why. Daurel and Beton certainly felt rough and unpolished in a lot of ways, like an early draft with a lot of potential but a lot of things that still needed figuring out and refining. And yet, there was a richness to it as well. The characters and their conflicts in this narrative felt, to me, much more interesting than those that populated _The Song of Roland_. It is a sort of family drama that touches on many themes: loyalty, jealousy, friendship, materialism, sacrifice, betrayal, vengeance. And these just the themes that are immediately relatable to a contemporary reader. There is also a heavy focus on such Mediaeval concerns as feudal allegiance, noble birth, the importance of gift-giving, and honour. Beton is born to rule, and the narrative does not allow you to doubt it. And yet, it is a minstrel, a person born to a normal life that raises him and steers Beton toward his greatness. 
 
@@ -55,7 +60,7 @@ Just recounting these moments excites me and gets my imagination spinning. While
 
 I also can't help but wonder if Daurel was a sort of self-insert? 
 
----
+![[Section break 1.png]]
 
 #### The manuscript  
 
@@ -78,10 +83,11 @@ _
 
 At present I am fixated on seeking out all of the available research on this narrative. I have made a brief list below of some I have already read. The ARLIMA page provides a comprehensive list of related articles, most of which are in French or German. The seminal work on the piece seems to be the very first transcription of it done by Paul Meyer in 1880, which also has a rather lengthy introduction and analysis of the poem. Ah, that I could read French! I'm going to do my best to figure out Meyer's words with the help of online translators, but it is going to be a slow process, and until then there is much that remains mysterious to me about this poem.  
 
-There is so much that I find fascinating about the story of _Daurel and Beton_. Was this a well-known narrative that someone was putting to paper for the first time? Was it just some writer's attempt at their own original story? Was it a self-insert power fantasy with Daurel as the author's persona? Whatever it was, I think it's a darn cool story that deserves a bit more attention. I'm quite crushed that the ending may forever remain a mystery. But while it may forever remain unfinished, I firmly believe that the themes, characters and dramatic moments that the narrative has to offer in its current state would provide an excellent foundation for a retelling aimed at a 21st century audience, especially, perhaps, with a low fantasy setting wrapped in a strong coating of historical Languedoc inspiration.  
+There is so much that I find fascinating about the story of _Daurel and Beton_. Was this a well-known narrative that someone was putting to paper for the first time? Was it just some writer's attempt at their own original story? Was it a self-insert power fantasy with Daurel as the author's persona? Whatever it was, I think it's a darn cool story that deserves a bit more attention. I'm quite crushed that the ending may forever remain a mystery. But while it may forever remain unfinished, I firmly believe that the themes, characters and dramatic moments that the narrative has to offer in its current state would provide an excellent foundation for a retelling aimed at a 21st century audience, especially, perhaps, with a low fantasy setting wrapped in a strong coating of historical Languedoc inspiration.
 
----
+![[Section break 1.png]]
 
+#history #Medieaeval #literature 
 ### Sources:
 
 - _Archives de littérature du Moyen Âge page for Daurel et Beton_. https://www.arlima.net/ad/daurel_et_beton.html (Accessed 18 December 2023)
