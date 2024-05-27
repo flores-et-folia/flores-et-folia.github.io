@@ -8,8 +8,7 @@ permalink: /
 # Welcome! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
+  This is the place for my assorted word-heavy musings. For visual things you can view my portfolio here:<p> <a href="http://foxandmintcreative.com">Fox &amp; Mint</a>
 
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
