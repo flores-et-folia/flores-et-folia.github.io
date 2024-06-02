@@ -38,4 +38,4 @@ I have two little dreams with this mandolin in mind: sitting on the arm-chair in
 
 And once (if ever) I manage to master, or at least become sufficiently competent, in the mandolin I hope I can, perhaps, expand my repertoire to encompass the darling lute and the magnificent hurdy gurdy as well. 
 
-#music
+[[Music]]
