@@ -18,7 +18,7 @@ layout: default
 
     <side style="font-size: 0.9em">
       <h3><a href="https://kabouterblog.github.io/">My other half:</a></h3>
-      <h3 style="margin-bottom: 1em">Notes mentioning this note</h3>
+     
       {% if page.backlinks.size > 0 %}
       <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);">
       {% for backlink in page.backlinks %}
@@ -31,9 +31,17 @@ layout: default
       {% else %}
 
       <div style="font-size: 0.9em">
-        <p>
-          There are no notes linking to this note.
-        </p>
+        <h3 style="margin-bottom: 1em">Categories</h3>
+        <ul>
+            <li><a href="/_notes/flores-et-folia/On%20History%20and%20Historical%20Things.md">History</a></li>
+            <li><a href="/_notes/flores-et-folia/On%20Visual%20Art%20and%20Design.md">Visual Art</a></li>
+            <li>Food and Cooking</li>
+            <li><a href="">Music</a></li>
+            <li>Nature</li>
+            <li><a href="">Sociology</a></li>
+            <li>Theology</li>
+            <li><a href="/_notes/flores-et-folia/On%20Writing.md">Writing and Literature</a></li>
+        </ul>
       </div>
       {% endif %}
     </side>
@@ -42,6 +50,6 @@ layout: default
 
 <hr>
 
-<p>Here are all the notes in this garden, along with their links, visualized as a graph.</p>
+<h3>Sitemap</h3>
 
 {% include notes_graph.html %}

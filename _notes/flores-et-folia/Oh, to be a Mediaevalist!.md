@@ -27,7 +27,7 @@ PREAMBLE TO BE ADDED
 
 ### King Alfred's Reading List
 
-1. [ ] _Confessions, City of God, and Soliloquie_s, Augustine of Hippo
+1. [ ] _Confessions, City of God, and Soliloquies_, Augustine of Hippo
 2. [ ] _Ecclesiastical History of the English People_, Venerable Bede
 3. [ ] _History Against the Pagans_, Orosius
 4. [ ] _Regula Pastoralis and Dialogues_, Gregory the Great
@@ -38,22 +38,23 @@ PREAMBLE TO BE ADDED
 1. [ ] _Daily Life in the World of Charlemagne,_ Pierre Riche 
 2. [ ] _Feudal Society,_ Marc Bloch 
 3. [ ] _Fiefs and Vassals: The Medieval Evidence Reinterpreted,_ Susan Reynolds 
-4. [ ] _Framing the Early Middle Ages: Europe and the Mediterranean, 400–800,_ Chris  [ ] Wickham_Holy Feast, Holy Fast: The Religious Significance of Food to Medieval Women_ and_Fragmentation and Redemption,_ Caroline Walker Bynum 
-5. [ ] _In the Wake of the Plague,_ Norman Cantor 
-6. [ ] _Making of Europe,_ Christopher Dawson 
-7. [ ] _Medieval Civilization 400-1500 & The Birth of Europe,_ Jacques Le Goff 
-8. [ ] _Medieval Trade in the Mediterranean World,_ Robert Lopez 
-9. [ ] _Religious Movements of the Middle Ages,_ Herbert Grundmann 
-10. [ ] _Standards of Living in the Later Middle Ages,_ Christopher Dyer 
-11. [ ] _The Birth of the Western Economy,_ Robert Latouche 
-12. [ ] _The Civilization of the Middle Ages,_ Norman Cantor 
-13. [ ] _The Historians Craft,_ Marc Bloch_._
-14. [ ] _The Making of Europe,_ Robert Bartlett 
-15. [ ] _The Making of the Middle Ages,_ R.W. Southern 
-16. [ ] _The Middle Ages, 395-1500,_ Joseph Strayer 
-17. [ ] _The Pursuit of the Millenium: Revolutionary Millenarians and Mystical Anarchists of the Middle Ages,_ Norman Cohn 
-18. [ ] _The Rise of Western Christendom,_ Peter Brown
-19. [ ] _The Waning of the Middle Ages,_ John Huizinga
+4. [ ] _Framing the Early Middle Ages: Europe and the Mediterranean, 400–800,_ Chris Wickham
+5. [ ] _Holy Feast, Holy Fast: The Religious Significance of Food to Medieval Women_ and _Fragmentation and Redemption,_ Caroline Walker Bynum 
+6. [ ] _In the Wake of the Plague,_ Norman Cantor 
+7. [ ] _Making of Europe,_ Christopher Dawson 
+8. [ ] _Medieval Civilization 400-1500 & The Birth of Europe,_ Jacques Le Goff 
+9. [ ] _Medieval Trade in the Mediterranean World,_ Robert Lopez 
+10. [ ] _Religious Movements of the Middle Ages,_ Herbert Grundmann 
+11. [ ] _Standards of Living in the Later Middle Ages,_ Christopher Dyer 
+12. [ ] _The Birth of the Western Economy,_ Robert Latouche 
+13. [ ] _The Civilization of the Middle Ages,_ Norman Cantor 
+14. [ ] _The Historians Craft,_ Marc Bloch
+15. [ ] _The Making of Europe,_ Robert Bartlett 
+16. [ ] _The Making of the Middle Ages,_ R.W. Southern 
+17. [ ] _The Middle Ages, 395-1500,_ Joseph Strayer 
+18. [ ] _The Pursuit of the Millenium: Revolutionary Millenarians and Mystical Anarchists of the Middle Ages,_ Norman Cohn 
+19. [ ] _The Rise of Western Christendom,_ Peter Brown
+20. [ ] _The Waning of the Middle Ages,_ John Huizinga
 
 ### The History of Medieval Scholarship
 
@@ -216,11 +217,11 @@ The Fourth Crusade, Donald E. Queller_(See also: Thomas F. Madden)
 
 ### War and Conflict in the Middle Ages
 
-1. _A Distant Mirror: The Calamitous 14th Century, Barbara W. Tuchman_ 
-2. _Armies and Warfare in the Middle Ages: The English Experience, Michael Prestwich_
-3. _Early Carolingian Warfare, Bernard S. Bachrach_
-4. _War Cruel and Sharp: English Strategy Under Edward III, Clifford J. Rogers_
-5. _War in the Middle Ages, Philippe Contamine_
+1. [ ] _A Distant Mirror: The Calamitous 14th Century, Barbara W. Tuchman_ 
+2. [ ] _Armies and Warfare in the Middle Ages: The English Experience, Michael Prestwich_
+3. [ ] _Early Carolingian Warfare, Bernard S. Bachrach_
+4. [ ] _War Cruel and Sharp: English Strategy Under Edward III, Clifford J. Rogers_
+5. [ ] _War in the Middle Ages, Philippe Contamine_
 
 ### Speciality or Area Specific
 
@@ -262,7 +263,7 @@ The Fourth Crusade, Donald E. Queller_(See also: Thomas F. Madden)
 
 ### Other Chanson de Geste
 1. [ ] Ami et Amile
-2. [x] [Daurel and Beton]
+2. [x] [[Daurel and Beton]]
 3. [ ]  Jourdain de Blaye
 ### Minstrel's, Bards and Troubadours
 
