@@ -1,6 +1,6 @@
 On Thursday of this week we adopted a beautiful bowl-back mandolin. It was, perhaps, a little impulsive. To meet it on Wednesday and add it to the family on Thursday. It's missing a part of its bridge, but we're going to take it to a luthier to get that replaced in the next week or two. I am extremely excited!
 
-![[images/mandolin.jpg]]
+![[mandolin.jpg]]
 *Isn't he pretty? I'm still thinking up a name. Definitely something Italian.*
 
 I have been thinking, desiring, for a long time now to truly try my hand at learning music. I have always (rather inexplicably, I'd say) been intrigued by bards and lutes and harps and the wandering musicians of bygone eras. But while my father always dabbled in guitar privately and appreciated opera, classic music and the pop music of his youth, my family was never otherwise particularly musical. 
