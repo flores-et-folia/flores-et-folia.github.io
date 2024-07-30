@@ -12,8 +12,7 @@ permalink: /
 
 For visual things you can view my portfolio here: <a href="http://foxandmintcreative.com">Fox &amp; Mint</a>
 
-<strong>Recently updated notes</strong>
-
+<!--<strong>Recently updated notes</strong>
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
   {% for note in recent_notes limit: 5 %}
@@ -21,8 +20,10 @@ For visual things you can view my portfolio here: <a href="http://foxandmintcrea
       {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
     </li>
   {% endfor %}
-</ul>
+</ul>-->
+<h3>Sitemap</h3>
 
+{% include notes_graph.html %}
 <style>
   .wrapper {
     max-width: 46em;

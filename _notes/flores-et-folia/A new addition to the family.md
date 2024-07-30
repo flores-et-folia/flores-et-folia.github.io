@@ -32,6 +32,7 @@ I have two little dreams with this mandolin in mind: sitting on the arm-chair in
 - Leliana's Song
 - Miri it is while summer ilast
 - O come, O come Emmanuel
+- Over the Hills and Far Away by Nightwish
 - Rise (from Dragon Age Inquisition)
 - Scarborough Fair
 - Under a Violet Moon by Blackmore's Night
